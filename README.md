@@ -1,0 +1,2 @@
+# -Logistics-Pricing-Route-Optimization-Project-Tools-Python-Excel-SQL
+Analyzed logistics demand and fleet utilization data to identify pricing and routing inefficiencies. Built a demand-forecasting and route-optimization model to improve fleet utilization and delivery planning. Pilot analysis indicated a 12–16% reduction in fuel consumption, with a corresponding increase in utilization from 78% to 92%.
